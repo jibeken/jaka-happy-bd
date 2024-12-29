@@ -5,7 +5,7 @@ let w = (c.width = window.innerWidth),
 (hh = h / 2),
   (opts = {
     // change the text in here //
-    strings: ["ЖАРКЫНАЙ", "С ДНЕМ", "РОЖДЕНИЯ","(29 декабря - международный день", "биологического разнообразия)"],
+    strings: ["ЖАРКЫНАЙ", "С ДНЕМ", "РОЖДЕНИЯ"],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
